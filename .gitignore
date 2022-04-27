@@ -58,5 +58,7 @@ docs/source/changelog.md
 {"mode":"full","isActive":false}
 
 /ignore/
-awesome-panel-introduction
-intro-to-holoviz
+viz/awesome-panel-introduction
+viz/intro-to-holoviz
+nc_data
+viz
